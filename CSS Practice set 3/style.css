@@ -1,0 +1,42 @@
+#navbar{
+    background-color: black;
+    height: 40px;
+}
+a{
+    color: aliceblue;
+}
+a{
+   margin-right: 150px;
+   margin-left: 10px;
+   font-size: 18px;
+}
+button{
+    color: yellow;
+background-color: rgb(140, 88, 21);
+}
+
+#logo{
+    color: chartreuse;
+    font-size: 20px;
+}
+#amazonheading{
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(24, 58, 181);
+    font-size: 40px;
+}
+#flipkartheading{
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(44, 214, 18);
+    font-size: 40px;
+}
+#fnavbar{
+    background-color: rgb(56, 7, 203);
+    height: 40px;
+}
+#flipkartlogo{
+    font-family:cursive;
+    font-size: 22px;
+
+}
